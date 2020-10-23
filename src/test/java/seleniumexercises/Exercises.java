@@ -19,7 +19,7 @@ public class Exercises {
     }
 
     @Test
-    public void searchForVisa() {
+    public void applyForVisa() {
 
         new HomePage(driver)
                 .load()
